@@ -1,4 +1,4 @@
-## AI Helper (CLI)
+## persional support system (CLI)
 
 Python으로 만든 아주 단순한 CLI 비서입니다.
 

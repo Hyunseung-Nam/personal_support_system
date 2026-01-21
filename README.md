@@ -25,7 +25,7 @@ Python으로 만든 아주 단순한 CLI 비서입니다.
 2. 터미널에서 프로젝트 폴더로 이동합니다.
 
 ```bash
-cd /Users/hyunseung/dev/personal_support_system
+cd personal_support_system
 ```
 
 3. 스크립트를 실행합니다.

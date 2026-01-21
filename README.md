@@ -25,13 +25,13 @@ Python으로 만든 아주 단순한 CLI 비서입니다.
 2. 터미널에서 프로젝트 폴더로 이동합니다.
 
 ```bash
-cd /Users/hyunseung/dev/Ai_helper
+cd /Users/hyunseung/dev/personal_support_system
 ```
 
 3. 스크립트를 실행합니다.
 
 ```bash
-python ai_helper.py
+python personal_support_system.py
 ```
 
 4. 화면에 나오는 안내에 따라, 지금 줄이고 싶은 삶의 영역 번호를 선택합니다.
@@ -40,7 +40,7 @@ python ai_helper.py
 
 ### 기능
 
-- 집/생활, 업무/공부, 금융/행정, 건강/루틴, 디지털 정리 5개 영역 중 하나를 고릅니다.
+- 업무/공부, 금융/행정, 건강/루틴, 디지털 정리 5개 영역 중 하나를 고릅니다.
 - 각 영역에서 대표적인 루틴·실수 유발 작업 예시들을 5개 정도 보여줍니다.
 - 후속으로, 이 항목들을 어떻게 “체크리스트, 리마인더, 자동화” 후보로 삼을지 간단한 가이드를 제공합니다.
 
